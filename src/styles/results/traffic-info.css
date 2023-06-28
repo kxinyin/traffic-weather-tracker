@@ -1,0 +1,12 @@
+.result-no-traffic-wrapper {
+  text-align: center;
+  color: #1d71f2;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.result-traffic-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
